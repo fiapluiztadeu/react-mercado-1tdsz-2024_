@@ -1,4 +1,4 @@
-//Importamos o tipo de Item
+//Importamos o tipo de Item 
 import { Item } from '../data/listaData';
 //Definimos o formato da interface de props, com o componente listaDeCompras
 //lista de intens (array de Item)
